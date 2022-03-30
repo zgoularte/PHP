@@ -6,9 +6,9 @@ $divisao = 10 / 3;
 
 $divisao = 3;
 
-$texto = "Olá mundo";
+$text = "hello world";
 
 $verdadeiro = true;
 $falso = false;
 
-echo gettype($verdadeiro);
+echo gettype($salario);
